@@ -1,10 +1,10 @@
 # Hi, I'm Giannina 👋
 
-I'm a Computer Science student from Costa Rica 🇨🇷.
+I'm a Computer Science student from Costa Rica.
 
 ## About Me
 
-I'm currently studying Information Technology Engineering and building my skills in databases, networking and cybersecurity.
+I'm currently studying Computer Science and building my skills in databases, networking and cybersecurity.
 
 ## Languages
 - Spanish -- Native
